@@ -1,1 +1,2 @@
 api placeholder
+CSP-7 stub notes
