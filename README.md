@@ -1,1 +1,1 @@
-# csp-social-demo
+# CSP Social Demo
