@@ -1,1 +1,2 @@
 api placeholder
+JWT cookie handling: HttpOnly, Secure, SameSite=Lax; refresh/rotate token
