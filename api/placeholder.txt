@@ -1,1 +1,2 @@
 api placeholder
+API: POST /api/auth/signup → 201 {id}, 409 duplicate, hashed pw
